@@ -1,5 +1,5 @@
 greeting:
-  displayFortune: false
+  displayFortune: true
 
 fortune:
   ribbon:
